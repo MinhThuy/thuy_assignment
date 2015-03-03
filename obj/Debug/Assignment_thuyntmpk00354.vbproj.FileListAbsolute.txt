@@ -1,0 +1,30 @@
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.exe
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.xml
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.exe
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.xml
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromloaisanpham.resources
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.FromCTHD.resources
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromhoadon.resources
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromkhachang.resources
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.Fromqlbanhang.resources
+C:\Users\user\AppData\Local\Temporary Projects\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromquanli.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\bin\Debug\Assignment_thuyntmpk00354.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.FromCTHD.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromhoadon.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromkhachang.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromloaisanpham.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.fromquanli.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.Fromqlbanhang.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Assignment_thuyntmpk00354\Assignment_thuyntmpk00354\obj\Debug\Assignment_thuyntmpk00354.vbproj.GenerateResource.Cache
